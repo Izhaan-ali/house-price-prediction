@@ -1,8 +1,5 @@
 <<<<<<< HEAD
 ## House Price Pediction 
-=======
-"# Property Price Prediction" 
->>>>>>> 96cf5ce4e31ea508e98afecfc535992897c9f3be
 
 This project uses machine learning to predict house prices based on area. The goal is to build accurate and interpretable models using:
 
