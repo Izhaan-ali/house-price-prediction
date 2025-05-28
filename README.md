@@ -1,4 +1,4 @@
-"# pRICE PREDICTION" 
+"# Property Price Prediction" 
 
 this project predicts price in the basis of data provided to train model using different techniques like manual, linear regression, lasso, and Ridge
 
